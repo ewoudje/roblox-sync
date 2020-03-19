@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Roblox",
+          "submenu": [
+            {
+              "label": "Setup Sync",
+              "command": "roblox-atom-coding:setup-sync"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
