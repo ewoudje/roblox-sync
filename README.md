@@ -1,5 +1,7 @@
 # roblox-atom-coding package
 
-A short description of your package.
+WARNING! is in early development make a backup of your roblox place or you might lose all your scripts.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## How do i install this thing?
+This uses the atom editor, so you need that.
+Then simply run the command `apm install https://github.com/ewoudje/roblox-sync`
