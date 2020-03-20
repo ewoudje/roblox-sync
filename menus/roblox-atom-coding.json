@@ -9,6 +9,10 @@
             {
               "label": "Setup Sync",
               "command": "roblox-atom-coding:setup-sync"
+            },
+            {
+              "label": "RESync",
+              "command": "roblox-atom-coding:resync"
             }
           ]
         }
