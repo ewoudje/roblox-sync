@@ -1,7 +1,7 @@
 {
-  "name": "roblox-atom-coding",
+  "name": "roblox-sync",
   "main": "./lib/roblox-atom-coding",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A package to sync the content of atom editor to roblox!",
   "keywords": [],
   "activationCommands": {},
